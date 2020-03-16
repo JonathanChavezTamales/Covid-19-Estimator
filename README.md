@@ -2,10 +2,9 @@
 
 This is something that I made for improving my python skills, this is may not be scientifically correct.
 <img src="https://i.ibb.co/n0bWqrX/Captura-de-Pantalla-2020-03-15-a-la-s-19-59-05.png" alt="Captura-de-Pantalla-2020-03-15-a-la-s-19-59-05" border="0" />
-Errata: Next two plots have incorrect labels.
 <img src="https://i.ibb.co/vYkg2c3/Captura-de-Pantalla-2020-03-15-a-la-s-20-00-12.png" alt="Captura-de-Pantalla-2020-03-15-a-la-s-20-00-12" border="0" />
 <img src="https://i.ibb.co/YPrhj67/Captura-de-Pantalla-2020-03-15-a-la-s-20-00-38.png" alt="Captura-de-Pantalla-2020-03-15-a-la-s-20-00-38" border="0" />
-
+Errata: These two plots have incorrect labels.
 
 ## How to run
 
